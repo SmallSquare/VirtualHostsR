@@ -88,7 +88,7 @@ public class VhostsService extends VpnService {
                 manager.createNotificationChannel(channel);
                 Notification notification = new Notification.Builder(this, "vhosts_channel_id")
                         .setSmallIcon(R.mipmap.ic_launcher)
-                        .setContentTitle("Virtual Hosts Running")
+                        .setContentTitle(" Running")
                         .build();
                 startForeground(1, notification);
             }

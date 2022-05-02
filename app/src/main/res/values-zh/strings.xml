@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Virtual Hosts</string>
+    <string name="app_name"></string>
     <string name="action_settings">Settings</string>
     <string name="update_button">更新</string>
     <string name="update_hosts">选择ip更新hosts</string>

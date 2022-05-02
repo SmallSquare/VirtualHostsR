@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Virtual Hosts</string>
+    <string name="app_name">Virtual Hosts R</string>
     <string name="action_settings">Cài đặt</string>
     <string name="update_button">Cập nhật</string>
     <string name="update_hosts">Chọn ip cập nhật tập tin hosts</string>
